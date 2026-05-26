@@ -1,3 +1,3 @@
 
 
-![Streak](https://streak-stats.demolab.com?user=codebrutz&theme=dracula)
+![Streak](https://streak-stats.demolab.com?user=codebrutz&theme=nightowl)
